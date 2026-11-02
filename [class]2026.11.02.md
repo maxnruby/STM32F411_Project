@@ -24,3 +24,7 @@
   - LED 1초 깜빡임 코드
 
 <img width="409" height="189" alt="image" src="https://github.com/user-attachments/assets/42588d10-a5f8-4017-9196-ab209c6260c9" /><br>
+
+  - Debug
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/064554ee-8049-4ea6-9eae-8cc9a71fa9e2" /><br>
