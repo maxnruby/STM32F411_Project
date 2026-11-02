@@ -23,3 +23,6 @@ n- 항목 1
     - 더 깊은 하위 항목
 
 [네이버](https://naver.com)
+
+`console.log('Hello World')`
+코드 블록
