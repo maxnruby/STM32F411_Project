@@ -24,5 +24,15 @@ n- 항목 1
 
 [네이버](https://naver.com)
 
-`console.log('Hello World')`
-코드 블록
+```javascript
+function hello() {
+    console.log('Hello World');
+}
+```
+```python
+def hello():
+    print("Hello World")
+```
+```bash
+npm install package-name
+```
