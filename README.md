@@ -36,3 +36,6 @@ def hello():
 ```bash
 npm install package-name
 ```
+
+def hello():
+    print("Hello World")
