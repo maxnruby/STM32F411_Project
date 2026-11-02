@@ -37,5 +37,7 @@ def hello():
 npm install package-name
 ```
 
+```
 def hello():
     print("Hello World")
+```
