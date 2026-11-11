@@ -24,12 +24,18 @@ MODER
 00 01 00 00 00 00 00 00
 1    0    0    0
 
+<img width="626" height="380" alt="image" src="https://github.com/user-attachments/assets/366b16bf-155c-4f03-8a59-ef03cd19890c" />
+
 OUTPUT DATA RESITER 
 
 0000 0000 0100 0000
 0   0    4   0
 
+<img width="633" height="298" alt="image" src="https://github.com/user-attachments/assets/902358c0-3d78-4dec-88e8-cc7967e068a1" />
+
 <img width="393" height="390" alt="image" src="https://github.com/user-attachments/assets/075ef9c1-2277-4a94-8efc-01aaff32e677" />
+
   오실로스코프로 측정하기
+  
 <img width="899" height="745" alt="image" src="https://github.com/user-attachments/assets/e8c19f51-0d9e-4a04-9e90-338406c59753" />
 
