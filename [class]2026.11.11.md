@@ -1,16 +1,17 @@
 ## STM32F411 GPIO 및 오실로스코프 사용
 
   - 디버그 익스프레션 창에서 GPIOA 찾아 보기(Value는 HEX로 보기)
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ecc37bd2-6e8d-4921-b585-7417b39c18bb" />
-<img width="1420" height="301" alt="image" src="https://github.com/user-attachments/assets/6293af5f-c563-4591-ae1a-ab5f75b39690" />
 
+<img width="1420" height="301" alt="image" src="https://github.com/user-attachments/assets/6293af5f-c563-4591-ae1a-ab5f75b39690" />
 <br><br>
 
   - Extension connectors
+
 <img width="1597" height="751" alt="image" src="https://github.com/user-attachments/assets/556381a9-e949-484e-a463-62796873b99c" />
 <br><br>
 
   - Expression Value
+
 <img width="1054" height="790" alt="image" src="https://github.com/user-attachments/assets/717ce2dd-ee5b-4768-b8c2-2abc44a6ded2" />
 <br><br>
 
