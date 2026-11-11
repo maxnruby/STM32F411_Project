@@ -19,17 +19,19 @@ Expression Value
 <img width="1054" height="790" alt="image" src="https://github.com/user-attachments/assets/717ce2dd-ee5b-4768-b8c2-2abc44a6ded2" />
 
   - PA6 ON 
-MODER
+MODER 계산
 
 00 01 00 00 00 00 00 00
-1    0    0    0
+
+ 1      0     0     0
 
 <img width="626" height="380" alt="image" src="https://github.com/user-attachments/assets/366b16bf-155c-4f03-8a59-ef03cd19890c" />
 
-OUTPUT DATA RESITER 
+OUTPUT DATA RESITER 계산
 
 0000 0000 0100 0000
-0   0    4   0
+
+ 0     0    4   0
 
 <img width="633" height="298" alt="image" src="https://github.com/user-attachments/assets/902358c0-3d78-4dec-88e8-cc7967e068a1" />
 
