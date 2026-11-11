@@ -12,7 +12,8 @@
 <img width="1054" height="790" alt="image" src="https://github.com/user-attachments/assets/717ce2dd-ee5b-4768-b8c2-2abc44a6ded2" />
 <br><br>
 
-  - PA6 ON 해보기 
+  - PA6 ON 해보기
+  - 
 MODER 계산
 
 00 01 00 00 00 00 00 00
@@ -31,6 +32,7 @@ OUTPUT DATA RESITER 계산
 <img width="633" height="298" alt="image" src="https://github.com/user-attachments/assets/902358c0-3d78-4dec-88e8-cc7967e068a1" />
 <br><br>
 
+  - 값 입력해주기
 <img width="393" height="390" alt="image" src="https://github.com/user-attachments/assets/075ef9c1-2277-4a94-8efc-01aaff32e677" />
 <br><br>
 
