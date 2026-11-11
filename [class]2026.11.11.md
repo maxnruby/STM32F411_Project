@@ -1,4 +1,4 @@
-## 오실로스코프 사용 및 STM32F411 GPIO
+## STM32F411 GPIO 및 오실로스코프 사용
 
   - 디버그 익스프레션 창에서 GPIOA 찾아 보기
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ecc37bd2-6e8d-4921-b585-7417b39c18bb" />
