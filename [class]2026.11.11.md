@@ -1,6 +1,6 @@
 ## 오실로스코프 사용 및 STM32F411 GPIO
 
-  - 디버그에서 익스프레션 창에서 GPIOA 찾아서 보기
+  - 디버그 익스프레션 창에서 GPIOA 찾아 보기
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ecc37bd2-6e8d-4921-b585-7417b39c18bb" />
 <br><br>
 
@@ -13,7 +13,7 @@
 <br><br>
 
   - PA6 ON 해보기
-  - 
+  
 MODER 계산
 
 00 01 00 00 00 00 00 00
