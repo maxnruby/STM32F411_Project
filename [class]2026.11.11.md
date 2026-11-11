@@ -13,7 +13,7 @@
 <br><br>
 
   - PA6 ON 해보기
-  
+  - 
 MODER 계산
 
 00 01 00 00 00 00 00 00
@@ -45,6 +45,7 @@ OUTPUT DATA RESITER 계산
 <img width="543" height="621" alt="image" src="https://github.com/user-attachments/assets/c7aabeea-8721-4739-a6f2-eb145f0b1d0f" />
 <br><br>
 
+  - Trig로 상승신호 확인함
 <img width="899" height="745" alt="image" src="https://github.com/user-attachments/assets/e8c19f51-0d9e-4a04-9e90-338406c59753" />
 <br><br>
 
