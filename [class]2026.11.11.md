@@ -36,8 +36,15 @@ OUTPUT DATA RESITER 계산
 <img width="393" height="390" alt="image" src="https://github.com/user-attachments/assets/075ef9c1-2277-4a94-8efc-01aaff32e677" />
 <br><br>
 
+ - GPIO A 관련 레지스터 및 주소 옵셋 확인
+<img width="807" height="379" alt="image" src="https://github.com/user-attachments/assets/f9828233-3c43-47c5-a861-c3ff8cc3463e" />
+<br><br>
+
   - 오실로스코프로 측정하기
-  
+
+<img width="543" height="621" alt="image" src="https://github.com/user-attachments/assets/c7aabeea-8721-4739-a6f2-eb145f0b1d0f" />
+<br><br>
+
 <img width="899" height="745" alt="image" src="https://github.com/user-attachments/assets/e8c19f51-0d9e-4a04-9e90-338406c59753" />
 <br><br>
 
