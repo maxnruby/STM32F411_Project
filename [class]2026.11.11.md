@@ -16,7 +16,7 @@
 
 #### PA6 ON 해보기
  
-MODER 계산
+  - MODER 계산
 
 00 01 00 00 00 00 00 00
 
@@ -25,7 +25,7 @@ MODER 계산
 <img width="626" height="380" alt="image" src="https://github.com/user-attachments/assets/366b16bf-155c-4f03-8a59-ef03cd19890c" />
 <br><br>
 
-OUTPUT DATA RESITER 계산
+  - OUTPUT DATA RESITER 계산
 
 0000 0000 0100 0000
 
