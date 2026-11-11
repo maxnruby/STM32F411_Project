@@ -20,10 +20,12 @@ Expression Value
 
   - PA6 ON 
 MODER
+
 00 01 00 00 00 00 00 00
 1    0    0    0
 
 OUTPUT DATA RESITER 
+
 0000 0000 0100 0000
 0   0    4   0
 
