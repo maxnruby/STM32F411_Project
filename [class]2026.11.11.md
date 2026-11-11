@@ -2,7 +2,7 @@
 
   - 디버그에서 익스프레션 창에서 GPIOA 찾아서 보기
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ecc37bd2-6e8d-4921-b585-7417b39c18bb" />
-<br>
+<br><br>
   - Extension connectors
 <img width="1597" height="751" alt="image" src="https://github.com/user-attachments/assets/556381a9-e949-484e-a463-62796873b99c" />
 
