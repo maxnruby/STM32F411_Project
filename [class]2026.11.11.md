@@ -51,7 +51,7 @@
 <br><br>
 
   - Trig로 상승신호 확인함
-<img width="899" height="745" alt="image" src="https://github.com/user-attachments/assets/e8c19f51-0d9e-4a04-9e90-338406c59753" width="350"/>
+<img width="899" height="745" alt="image" src="https://github.com/user-attachments/assets/e8c19f51-0d9e-4a04-9e90-338406c59753" width="150"/>
 <br><br>
 
 
