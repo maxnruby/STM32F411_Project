@@ -44,19 +44,17 @@ int main(void)
 #define HIGH 1
 #define LOW 0
 
-long unsigned int echo(void) {
-    long unsigned int echo_val = 0;
+int main(void) {
     unsigned int TIM_COUNTER = 0;
-
     int before = LOW;
     int now = LOW;
 
     while (1) {
-        printf("Input (1: HIGH, 0: LOW) : ");
+        printf("Signal : ");
         scanf("%d", &now);
 
         if (before == LOW && now == HIGH) {
-            printf("  >>Rising Edge Start\n");
+            printf("Rising Edge\n");
             TIM_COUNTER = 1;
         }
         else if (before == HIGH && now == HIGH) {
@@ -64,21 +62,12 @@ long unsigned int echo(void) {
             printf("Count %u\n", TIM_COUNTER);
         }
         else if (before == HIGH && now == LOW) {
-            echo_val = TIM_COUNTER;
-            printf("  >>Falling Edge End\n");
-            return echo_val;
+            printf("Falling Edge\n");
+            printf("Total : %u\n\n", TIM_COUNTER);
+            TIM_COUNTER = 0;
         }
 
         before = now;
-    }
-}
-
-int main(void) {
-    long unsigned int result = 0;
-
-    while (1) {
-        result = echo();
-        printf("=> Final echo_val : %lu\n\n", result);
     }
 
     return 0;
