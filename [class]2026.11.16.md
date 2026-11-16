@@ -2,7 +2,7 @@
 
   - 초음파 거리 센서(HC-SR04)의 Echo 신호를 검출하는 STM32 로직을 C언어 환경에 옮긴 테스트 코드
   - 디버그 환경에서 0과 1로 테스트
-
+```
 #include <stdio.h>
 #include <windows.h>
 
@@ -32,6 +32,6 @@ int main(void)
         echo();    
     //    Sleep(1000);
     }
-
+```
 }
 
