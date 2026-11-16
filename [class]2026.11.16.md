@@ -32,6 +32,55 @@ int main(void)
         echo();    
     //    Sleep(1000);
     }
+}
 ```
+
+  - 라이징 에지 검출 / 폴링 에지 검출 코드
+```
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+#define HIGH 1
+#define LOW 0
+
+long unsigned int echo(void) {
+    long unsigned int echo_val = 0;
+    unsigned int TIM_COUNTER = 0;
+
+    int before = LOW;
+    int now = LOW;
+
+    while (1) {
+        printf("Input state (1: HIGH, 0: LOW) : ");
+        scanf("%d", &now);
+
+        if (before == LOW && now == HIGH) {
+            printf("  >> [Rising Edge!] Count start\n");
+            TIM_COUNTER = 1;
+        }
+        else if (before == HIGH && now == HIGH) {
+            TIM_COUNTER++;
+            printf("  ... HIGH holding (Count: %u)\n", TIM_COUNTER);
+        }
+        else if (before == HIGH && now == LOW) {
+            echo_val = TIM_COUNTER;
+            printf("  >> [Falling Edge!] Measure end\n");
+            return echo_val;
+        }
+
+        before = now;
+    }
 }
 
+int main(void) {
+    long unsigned int result = 0;
+
+    while (1) {
+        result = echo();
+        printf("=> Final echo_val : %lu\n\n", result);
+    }
+
+    return 0;
+}
+```
+    
