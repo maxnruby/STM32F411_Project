@@ -9,3 +9,6 @@
    
 <img width="1032" height="653" alt="image" src="https://github.com/user-attachments/assets/18427de4-df38-4c41-a3b0-a1d403dc6868" />
 <br><br>
+
+  - SWV / 트레이스 관찰
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/d42600b9-40ff-49cc-87a9-dd5340016e7d" />
